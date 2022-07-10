@@ -26,7 +26,7 @@
     
     輸入網址:http://localhost:9100/h2-console
 
-    登入資料庫後以SQL格式輸入待辦事項，格式: INSERT INTO TODO(TASK, STATUS) VALUES("待辦事項", 1); //(1表示未完成,2表示已完成)
+    點選connect登入資料庫後以SQL格式輸入待辦事項，格式: INSERT INTO TODO(TASK, STATUS) VALUES("待辦事項", 1); //(1表示未完成,2表示已完成)
 
     http://localhost:9100/todos
 
