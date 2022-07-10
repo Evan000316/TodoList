@@ -22,7 +22,7 @@
 
 - **使用方式:**
 
-    執行TodolistApplication.java
+    執行todolist/src/main/java/com/exercise/todolist/TodolistApplication.java
     
     輸入網址:http://localhost:9100/h2-console
 
